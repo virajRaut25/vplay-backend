@@ -1,0 +1,21 @@
+{
+  "name": "vplay-backend",
+  "version": "1.0.0",
+  "description": "backend for vplay streaming service",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "video",
+    "play",
+    "enjoy"
+  ],
+  "author": "Viraj Raut",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  }
+}
